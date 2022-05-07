@@ -1,1 +1,2 @@
 httpd_port=8080
+httpd_domain=www.example.com
