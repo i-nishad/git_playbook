@@ -1,4 +1,5 @@
 - installing apache
+- installing php packages
 - creating httpd.conf from template
 - creating virtualhost from virtualhost.conf.tmpl
 - creating documentroot
